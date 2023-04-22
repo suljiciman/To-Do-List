@@ -1,8 +1,8 @@
-import React,from 'react'
+import React from 'react'
 
 const TaskForm = () => {
     
-    }
+    
   return (
     <form className='text-center max-w-md m-auto flex flex-col border-gray-100 border rounded px-12 shadow-md py-4'>
         
